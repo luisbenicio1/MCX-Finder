@@ -1,6 +1,6 @@
 # MCX-Finder 🎵
 
-MCX-finder é uma aplicação web simples que permite aos usuários pesquisar uma música e descobrir em quais plataformas de streaming ela está disponível.
+Este projeto é uma demonstração de como integrar APIs de terceiros para criar uma ferramenta útil e informativa.
 
 ## Como Funciona
 
