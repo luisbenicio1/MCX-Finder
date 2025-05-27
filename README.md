@@ -14,10 +14,10 @@ MCX-finder é uma aplicação web simples que permite aos usuários pesquisar um
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
 * **APIs Externas:**
-    * iTunes Search API (busca a inicial da música)
-    * Odesli API / Songlink API (faz agregação de links de plataformas)
+    * [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) (busca a inicial da música)
+    * [Odesli API]((https://publicapi.dev/songlink-odesli-api)) / Songlink API (faz agregação de links de plataformas)
 * **Bibliotecas:**
-    * `axios` (realiza as requisições HTTP no backend)
+    * ['Axios'](https://axios-http.com/ptbr/docs/intro) (realiza as requisições HTTP no backend)
 
 ## Como Executar Localmente
 
