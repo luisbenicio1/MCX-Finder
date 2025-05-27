@@ -1,6 +1,6 @@
 # MCX-Finder 🎵
 
-Este projeto é uma demonstração de como integrar APIs de terceiros para criar uma ferramenta útil e informativa.
+Este projeto foi feito para estudar e por fim demonstrar como integrar APIs para criar uma ferramenta útil e informativa.
 
 ## Como Funciona
 
