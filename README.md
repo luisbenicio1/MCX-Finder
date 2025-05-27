@@ -13,7 +13,7 @@ MCX-finder é uma aplicação web simples que permite aos usuários pesquisar um
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js
-* **APIs Externas:**
+* **APIs:**
     * [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html) (busca a inicial da música)
     * [Odesli API](https://publicapi.dev/songlink-odesli-api) / Songlink API (faz agregação de links de plataformas)
 * **Bibliotecas:**
