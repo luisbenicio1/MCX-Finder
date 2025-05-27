@@ -23,7 +23,7 @@ MCX-finder é uma aplicação web simples que permite aos usuários pesquisar um
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <https://github.com/luisbenicio1/MCX-Finder>
+    git clone https://github.com/luisbenicio1/MCX-Finder.git
     cd musica-finder
     ```
 
